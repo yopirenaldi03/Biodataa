@@ -82,10 +82,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<h1>Biodata diri</h1>
 
 	<div id="body">
-		<p>Nama           : Yopy renaldi</p>
-		<p>Alamt asal     :Baturaja,sumatra selatan </p>
-		<p>Cita-cita      :Presiden</p>
-		<p>Hoby           :Mancing</p>
+		<p>Nama           :Shanta happy sibatuara</p>
+		<p>Alamt asal     :planet namex </p>
+		<p>Cita-cita      :angota dewan</p>
+		<p>Hoby           :nonton</p>
 	</div>
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
